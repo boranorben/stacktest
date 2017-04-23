@@ -8,9 +8,9 @@
 * `testPopAllElements()` The method `pop()` should always remove the top element from the stack.
 * `testPopEmptyStackThrowException()` Throw an exception when pop the empty stack.
 * `testPopOffByOneThrowException()` Cannot pop when already popped more than the elements in the stack.
-* `testPushFullStackThrowException()` Throw an exception when push an element to the full stack
+* `testPushFullStackThrowException()` Throw an exception when push an element to the full stack.
 * `testPushNullStackThrowException()` Throw an exception when push null to the stack.
-## Result
+## Results
 Test|Result Stack type 0|Result Stack type 1|
 |:--:|:-----------------:|:-----------------:|
 |`testCapasityLessThanOne()`|Pass|Pass|
